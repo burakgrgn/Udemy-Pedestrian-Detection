@@ -1,0 +1,26 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "Test/04/00179.png"
+Image size (X x Y x C) : 129 x 164 x 1
+Database : "The LSI Database"
+Objects with ground truth : 4 { "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "UprightPerson"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (3, 41) - (26, 86)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "UprightPerson"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (29, 41) - (53, 88)
+
+# Details for object 3 ("PASperson")
+Original label for object 3 "PASperson" : "UprightPerson"
+Bounding box for object 3 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (55, 37) - (80, 87)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "UprightPerson"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (127, 36) - (152, 86)
+
